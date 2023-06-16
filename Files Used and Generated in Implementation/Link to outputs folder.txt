@@ -1,0 +1,2 @@
+This is the link to folder named "outputs" which contains trained model and tokenizer files and used in implementation: 
+https://drive.google.com/file/d/1ujiS4bFQ485d_l531RmCqEZRl4DZeJ0R/view?usp=sharing
