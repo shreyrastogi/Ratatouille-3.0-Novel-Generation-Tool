@@ -428,11 +428,3 @@ Ratatouille 3.0 implementation is based on popularity constraint. More constrain
   </h3> 
    Mansi Goel(PHD) <br> Parul Sikri(MT21064) <br> Adarsh Singh Kushwah(MT21111) <br> Niharika(MT21132) <br> Shrey Rastogi(MT21145)
 </div>
-<p align="center">
-
-  <br/>
-  <br/>
-  <br/>
-</p>
-<br/>
-<p>
